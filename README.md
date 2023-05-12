@@ -1,4 +1,7 @@
-## 👋 Hi, I'm Dmytro.
+## Hello there ✨
 
-I'm not your active Github contributor, but I might occasionally post side-projects and more likely my creative coding work.
-I'm becoming a huge fan of coding music with TidalCycles and will happily share my code on Github, hack it to pieces if you want to.
+I'm designer, developer & maker from Ukraine currently living in Malta.
+
+Currently mostly focused on www.subito.so ⚡️
+
+Expect me to share code for my smaller side-projects (like my Figma plugin) and some creative coding experiments with TidalCycles.
