@@ -1,6 +1,6 @@
 ## Hello there ✨
 
-I'm designer, developer & maker from Ukraine currently living in Malta.
+I'm designer, developer & maker from Ukraine 🇺🇦 currently living in Malta 🇲🇹
 
 Currently mostly focused on www.subito.so ⚡️
 
