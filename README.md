@@ -1,6 +1,5 @@
-## Hello there ✨
+## Hello there 👋
 
-I'm designer, developer & maker from Kyiv, Ukraine now moving to Madrid, España.
-Currently mostly focused on www.subito.so ⚡️
+I'm designer, developer & maker from Kyiv, Ukraine now based to Madrid, España.
 
-Expect me to share code for my smaller side-projects (like my Figma plugin) and some creative coding experiments with TidalCycles.
+Currently busy shaping CRM company of the future at Attio 💫
